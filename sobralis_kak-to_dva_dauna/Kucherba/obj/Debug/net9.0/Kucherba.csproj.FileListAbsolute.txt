@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\baby_work\buckwheat2.0\lw6-8\sobralis_kak-to_dva_dauna\Kucherba\bin\Debug\net9.0\Kucherba.exe
+C:\Users\USER\Desktop\baby_work\buckwheat2.0\lw6-8\sobralis_kak-to_dva_dauna\Kucherba\bin\Debug\net9.0\Kucherba.deps.json
+C:\Users\USER\Desktop\baby_work\buckwheat2.0\lw6-8\sobralis_kak-to_dva_dauna\Kucherba\bin\Debug\net9.0\Kucherba.runtimeconfig.json
+C:\Users\USER\Desktop\baby_work\buckwheat2.0\lw6-8\sobralis_kak-to_dva_dauna\Kucherba\bin\Debug\net9.0\Kucherba.dll
+C:\Users\USER\Desktop\baby_work\buckwheat2.0\lw6-8\sobralis_kak-to_dva_dauna\Kucherba\bin\Debug\net9.0\Kucherba.pdb
+C:\Users\USER\Desktop\baby_work\buckwheat2.0\lw6-8\sobralis_kak-to_dva_dauna\Kucherba\obj\Debug\net9.0\Kucherba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\baby_work\buckwheat2.0\lw6-8\sobralis_kak-to_dva_dauna\Kucherba\obj\Debug\net9.0\Kucherba.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\baby_work\buckwheat2.0\lw6-8\sobralis_kak-to_dva_dauna\Kucherba\obj\Debug\net9.0\Kucherba.AssemblyInfo.cs
+C:\Users\USER\Desktop\baby_work\buckwheat2.0\lw6-8\sobralis_kak-to_dva_dauna\Kucherba\obj\Debug\net9.0\Kucherba.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\baby_work\buckwheat2.0\lw6-8\sobralis_kak-to_dva_dauna\Kucherba\obj\Debug\net9.0\Kucherba.sourcelink.json
+C:\Users\USER\Desktop\baby_work\buckwheat2.0\lw6-8\sobralis_kak-to_dva_dauna\Kucherba\obj\Debug\net9.0\Kucherba.dll
+C:\Users\USER\Desktop\baby_work\buckwheat2.0\lw6-8\sobralis_kak-to_dva_dauna\Kucherba\obj\Debug\net9.0\refint\Kucherba.dll
+C:\Users\USER\Desktop\baby_work\buckwheat2.0\lw6-8\sobralis_kak-to_dva_dauna\Kucherba\obj\Debug\net9.0\Kucherba.pdb
+C:\Users\USER\Desktop\baby_work\buckwheat2.0\lw6-8\sobralis_kak-to_dva_dauna\Kucherba\obj\Debug\net9.0\Kucherba.genruntimeconfig.cache
+C:\Users\USER\Desktop\baby_work\buckwheat2.0\lw6-8\sobralis_kak-to_dva_dauna\Kucherba\obj\Debug\net9.0\ref\Kucherba.dll

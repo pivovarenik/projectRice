@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAccount xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Account>
+    <Id>5</Id>
+    <Name>Omega</Name>
+    <Rate>5.5</Rate>
+    <Capitalization>false</Capitalization>
+    <MinAmount>3000</MinAmount>
+    <AccountId>1</AccountId>
+    <Balance>10000</Balance>
+    <OpenDate>2025-10-23T22:31:41.7847325+03:00</OpenDate>
+    <CloseDate xsi:nil="true" />
+    <ContractEndDate>2026-12-12T00:00:00</ContractEndDate>
+    <Operations>
+      <Operation>
+        <Date>2025-10-23T22:31:41.7852287+03:00</Date>
+        <Type>Open</Type>
+        <Amount>10000</Amount>
+        <BalanceAfter>10000</BalanceAfter>
+        <Comment>Счёт открыт</Comment>
+      </Operation>
+    </Operations>
+  </Account>
+</ArrayOfAccount>

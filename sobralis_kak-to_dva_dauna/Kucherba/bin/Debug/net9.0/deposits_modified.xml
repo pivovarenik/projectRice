@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deposits>
+  <Deposit id="1" name="Standard" rate="5" capitalization="true" minAmount="1000" />
+  <Deposit id="2" name="Premium" rate="6.5" capitalization="false" minAmount="5000" />
+  <Deposit id="3" name="Ultra" rate="8" capitalization="false" minAmount="2000" />
+  <Deposit id="4" name="Super" rate="7.1" capitalization="true" minAmount="2000" />
+  <Deposit id="5" name="Omega" rate="5.5" capitalization="false" minAmount="3000" />
+  <Deposit id="6" name="UltraOmega" rate="5" capitalization="true" minAmount="5000" />
+  <Deposit id="7" name="SuperPremium" rate="7" capitalization="true" minAmount="2000" />
+  <Deposit id="8" name="Top" rate="7.8" capitalization="false" minAmount="5000" />
+  <Deposit id="9" name="Basic" rate="8" capitalization="true" minAmount="2000" />
+  <Deposit id="10" name="Prem" rate="6.5" capitalization="true" minAmount="2500" />
+</Deposits>
