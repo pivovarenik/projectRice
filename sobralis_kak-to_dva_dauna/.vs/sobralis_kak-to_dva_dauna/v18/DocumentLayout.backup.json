@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\akimt\\projectRice\\sobralis_kak-to_dva_dauna\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{818482F1-0BF3-4AD0-A382-FA219FF15761}|Akimbus\\Akimbus.csproj|c:\\users\\akimt\\projectrice\\sobralis_kak-to_dva_dauna\\akimbus\\viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{818482F1-0BF3-4AD0-A382-FA219FF15761}|Akimbus\\Akimbus.csproj|solutionrelative:akimbus\\viewswitcher.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818482F1-0BF3-4AD0-A382-FA219FF15761}|Akimbus\\Akimbus.csproj|c:\\users\\akimt\\projectrice\\sobralis_kak-to_dva_dauna\\akimbus\\studentsadd.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{818482F1-0BF3-4AD0-A382-FA219FF15761}|Akimbus\\Akimbus.csproj|solutionrelative:akimbus\\studentsadd.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818482F1-0BF3-4AD0-A382-FA219FF15761}|Akimbus\\Akimbus.csproj|c:\\users\\akimt\\projectrice\\sobralis_kak-to_dva_dauna\\akimbus\\students.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{818482F1-0BF3-4AD0-A382-FA219FF15761}|Akimbus\\Akimbus.csproj|solutionrelative:akimbus\\students.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818482F1-0BF3-4AD0-A382-FA219FF15761}|Akimbus\\Akimbus.csproj|c:\\users\\akimt\\projectrice\\sobralis_kak-to_dva_dauna\\akimbus\\statistics.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{818482F1-0BF3-4AD0-A382-FA219FF15761}|Akimbus\\Akimbus.csproj|solutionrelative:akimbus\\statistics.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818482F1-0BF3-4AD0-A382-FA219FF15761}|Akimbus\\Akimbus.csproj|c:\\users\\akimt\\projectrice\\sobralis_kak-to_dva_dauna\\akimbus\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{818482F1-0BF3-4AD0-A382-FA219FF15761}|Akimbus\\Akimbus.csproj|solutionrelative:akimbus\\site.mobile.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818482F1-0BF3-4AD0-A382-FA219FF15761}|Akimbus\\Akimbus.csproj|c:\\users\\akimt\\projectrice\\sobralis_kak-to_dva_dauna\\akimbus\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{818482F1-0BF3-4AD0-A382-FA219FF15761}|Akimbus\\Akimbus.csproj|solutionrelative:akimbus\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818482F1-0BF3-4AD0-A382-FA219FF15761}|Akimbus\\Akimbus.csproj|c:\\users\\akimt\\projectrice\\sobralis_kak-to_dva_dauna\\akimbus\\search.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{818482F1-0BF3-4AD0-A382-FA219FF15761}|Akimbus\\Akimbus.csproj|solutionrelative:akimbus\\search.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818482F1-0BF3-4AD0-A382-FA219FF15761}|Akimbus\\Akimbus.csproj|c:\\users\\akimt\\projectrice\\sobralis_kak-to_dva_dauna\\akimbus\\enrollstudent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{818482F1-0BF3-4AD0-A382-FA219FF15761}|Akimbus\\Akimbus.csproj|solutionrelative:akimbus\\enrollstudent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818482F1-0BF3-4AD0-A382-FA219FF15761}|Akimbus\\Akimbus.csproj|c:\\users\\akimt\\projectrice\\sobralis_kak-to_dva_dauna\\akimbus\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{818482F1-0BF3-4AD0-A382-FA219FF15761}|Akimbus\\Akimbus.csproj|solutionrelative:akimbus\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818482F1-0BF3-4AD0-A382-FA219FF15761}|Akimbus\\Akimbus.csproj|c:\\users\\akimt\\projectrice\\sobralis_kak-to_dva_dauna\\akimbus\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{818482F1-0BF3-4AD0-A382-FA219FF15761}|Akimbus\\Akimbus.csproj|solutionrelative:akimbus\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818482F1-0BF3-4AD0-A382-FA219FF15761}|Akimbus\\Akimbus.csproj|c:\\users\\akimt\\projectrice\\sobralis_kak-to_dva_dauna\\akimbus\\coursesmanage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{818482F1-0BF3-4AD0-A382-FA219FF15761}|Akimbus\\Akimbus.csproj|solutionrelative:akimbus\\coursesmanage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818482F1-0BF3-4AD0-A382-FA219FF15761}|Akimbus\\Akimbus.csproj|c:\\users\\akimt\\projectrice\\sobralis_kak-to_dva_dauna\\akimbus\\coursesadd.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{818482F1-0BF3-4AD0-A382-FA219FF15761}|Akimbus\\Akimbus.csproj|solutionrelative:akimbus\\coursesadd.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818482F1-0BF3-4AD0-A382-FA219FF15761}|Akimbus\\Akimbus.csproj|c:\\users\\akimt\\projectrice\\sobralis_kak-to_dva_dauna\\akimbus\\courses.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{818482F1-0BF3-4AD0-A382-FA219FF15761}|Akimbus\\Akimbus.csproj|solutionrelative:akimbus\\courses.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818482F1-0BF3-4AD0-A382-FA219FF15761}|Akimbus\\Akimbus.csproj|c:\\users\\akimt\\projectrice\\sobralis_kak-to_dva_dauna\\akimbus\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{818482F1-0BF3-4AD0-A382-FA219FF15761}|Akimbus\\Akimbus.csproj|solutionrelative:akimbus\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{818482F1-0BF3-4AD0-A382-FA219FF15761}|Akimbus\\Akimbus.csproj|c:\\users\\akimt\\projectrice\\sobralis_kak-to_dva_dauna\\akimbus\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{818482F1-0BF3-4AD0-A382-FA219FF15761}|Akimbus\\Akimbus.csproj|solutionrelative:akimbus\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 336,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewSwitcher.ascx",
+              "DocumentMoniker": "C:\\Users\\akimt\\projectRice\\sobralis_kak-to_dva_dauna\\Akimbus\\ViewSwitcher.ascx",
+              "RelativeDocumentMoniker": "Akimbus\\ViewSwitcher.ascx",
+              "ToolTip": "C:\\Users\\akimt\\projectRice\\sobralis_kak-to_dva_dauna\\Akimbus\\ViewSwitcher.ascx",
+              "RelativeToolTip": "Akimbus\\ViewSwitcher.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2025-10-24T01:27:49.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsAdd.aspx",
+              "DocumentMoniker": "C:\\Users\\akimt\\projectRice\\sobralis_kak-to_dva_dauna\\Akimbus\\StudentsAdd.aspx",
+              "RelativeDocumentMoniker": "Akimbus\\StudentsAdd.aspx",
+              "ToolTip": "C:\\Users\\akimt\\projectRice\\sobralis_kak-to_dva_dauna\\Akimbus\\StudentsAdd.aspx",
+              "RelativeToolTip": "Akimbus\\StudentsAdd.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-24T01:27:43.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Students.aspx",
+              "DocumentMoniker": "C:\\Users\\akimt\\projectRice\\sobralis_kak-to_dva_dauna\\Akimbus\\Students.aspx",
+              "RelativeDocumentMoniker": "Akimbus\\Students.aspx",
+              "ToolTip": "C:\\Users\\akimt\\projectRice\\sobralis_kak-to_dva_dauna\\Akimbus\\Students.aspx*",
+              "RelativeToolTip": "Akimbus\\Students.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-24T01:27:33.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Site.Mobile.Master",
+              "DocumentMoniker": "C:\\Users\\akimt\\projectRice\\sobralis_kak-to_dva_dauna\\Akimbus\\Site.Mobile.Master",
+              "RelativeDocumentMoniker": "Akimbus\\Site.Mobile.Master",
+              "ToolTip": "C:\\Users\\akimt\\projectRice\\sobralis_kak-to_dva_dauna\\Akimbus\\Site.Mobile.Master",
+              "RelativeToolTip": "Akimbus\\Site.Mobile.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-24T01:27:25.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\akimt\\projectRice\\sobralis_kak-to_dva_dauna\\Akimbus\\Site.Master",
+              "RelativeDocumentMoniker": "Akimbus\\Site.Master",
+              "ToolTip": "C:\\Users\\akimt\\projectRice\\sobralis_kak-to_dva_dauna\\Akimbus\\Site.Master",
+              "RelativeToolTip": "Akimbus\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-24T01:27:15.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Search.aspx",
+              "DocumentMoniker": "C:\\Users\\akimt\\projectRice\\sobralis_kak-to_dva_dauna\\Akimbus\\Search.aspx",
+              "RelativeDocumentMoniker": "Akimbus\\Search.aspx",
+              "ToolTip": "C:\\Users\\akimt\\projectRice\\sobralis_kak-to_dva_dauna\\Akimbus\\Search.aspx*",
+              "RelativeToolTip": "Akimbus\\Search.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-24T01:27:00.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnrollStudent.aspx",
+              "DocumentMoniker": "C:\\Users\\akimt\\projectRice\\sobralis_kak-to_dva_dauna\\Akimbus\\EnrollStudent.aspx",
+              "RelativeDocumentMoniker": "Akimbus\\EnrollStudent.aspx",
+              "ToolTip": "C:\\Users\\akimt\\projectRice\\sobralis_kak-to_dva_dauna\\Akimbus\\EnrollStudent.aspx",
+              "RelativeToolTip": "Akimbus\\EnrollStudent.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-24T01:26:52.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Statistics.aspx",
+              "DocumentMoniker": "C:\\Users\\akimt\\projectRice\\sobralis_kak-to_dva_dauna\\Akimbus\\Statistics.aspx",
+              "RelativeDocumentMoniker": "Akimbus\\Statistics.aspx",
+              "ToolTip": "C:\\Users\\akimt\\projectRice\\sobralis_kak-to_dva_dauna\\Akimbus\\Statistics.aspx",
+              "RelativeToolTip": "Akimbus\\Statistics.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-24T01:12:37.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "favicon.ico - Icon [192x256, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\akimt\\projectRice\\sobralis_kak-to_dva_dauna\\Akimbus\\favicon.ico",
+              "RelativeDocumentMoniker": "Akimbus\\favicon.ico",
+              "ToolTip": "C:\\Users\\akimt\\projectRice\\sobralis_kak-to_dva_dauna\\Akimbus\\favicon.ico - Icon [192x256, 32 bit, BMP]",
+              "RelativeToolTip": "Akimbus\\favicon.ico - Icon [192x256, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-10-24T01:26:49.855Z",
+              "EditorCaption": " - Icon [192x256, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\akimt\\projectRice\\sobralis_kak-to_dva_dauna\\Akimbus\\Default.aspx",
+              "RelativeDocumentMoniker": "Akimbus\\Default.aspx",
+              "ToolTip": "C:\\Users\\akimt\\projectRice\\sobralis_kak-to_dva_dauna\\Akimbus\\Default.aspx",
+              "RelativeToolTip": "Akimbus\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-24T01:26:43.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CoursesManage.aspx",
+              "DocumentMoniker": "C:\\Users\\akimt\\projectRice\\sobralis_kak-to_dva_dauna\\Akimbus\\CoursesManage.aspx",
+              "RelativeDocumentMoniker": "Akimbus\\CoursesManage.aspx",
+              "ToolTip": "C:\\Users\\akimt\\projectRice\\sobralis_kak-to_dva_dauna\\Akimbus\\CoursesManage.aspx",
+              "RelativeToolTip": "Akimbus\\CoursesManage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-24T01:26:38.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CoursesAdd.aspx",
+              "DocumentMoniker": "C:\\Users\\akimt\\projectRice\\sobralis_kak-to_dva_dauna\\Akimbus\\CoursesAdd.aspx",
+              "RelativeDocumentMoniker": "Akimbus\\CoursesAdd.aspx",
+              "ToolTip": "C:\\Users\\akimt\\projectRice\\sobralis_kak-to_dva_dauna\\Akimbus\\CoursesAdd.aspx",
+              "RelativeToolTip": "Akimbus\\CoursesAdd.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-24T01:26:30.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Courses.aspx",
+              "DocumentMoniker": "C:\\Users\\akimt\\projectRice\\sobralis_kak-to_dva_dauna\\Akimbus\\Courses.aspx",
+              "RelativeDocumentMoniker": "Akimbus\\Courses.aspx",
+              "ToolTip": "C:\\Users\\akimt\\projectRice\\sobralis_kak-to_dva_dauna\\Akimbus\\Courses.aspx",
+              "RelativeToolTip": "Akimbus\\Courses.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-24T01:26:26.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\Users\\akimt\\projectRice\\sobralis_kak-to_dva_dauna\\Akimbus\\About.aspx",
+              "RelativeDocumentMoniker": "Akimbus\\About.aspx",
+              "ToolTip": "C:\\Users\\akimt\\projectRice\\sobralis_kak-to_dva_dauna\\Akimbus\\About.aspx",
+              "RelativeToolTip": "Akimbus\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-24T01:26:21.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "About.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\akimt\\projectRice\\sobralis_kak-to_dva_dauna\\Akimbus\\About.aspx.cs",
+              "RelativeDocumentMoniker": "Akimbus\\About.aspx.cs",
+              "ToolTip": "C:\\Users\\akimt\\projectRice\\sobralis_kak-to_dva_dauna\\Akimbus\\About.aspx.cs",
+              "RelativeToolTip": "Akimbus\\About.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T01:26:18.446Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
